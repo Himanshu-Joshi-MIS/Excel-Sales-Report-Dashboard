@@ -23,16 +23,12 @@ Age Group Sales Analysis
 Sales Top 5 States
 Monthly Quantity By Gender
 
-🔍 Key Insights
+**🔍 Key Insights**
 Women customers contribute the most, accounting for 64% of total sales.
-
 Adults (35-50 yrs) age group is the highest contributing segment at 48%.
-
 Maharashtra, Karnataka, and Uttar Pradesh are the top 3 performing states.
-
 March recorded the maximum sales peak of $1.93M in the entire year.
-
 Monthly Quantity shows that women consistently purchase nearly double the units compared to men every month.
 
 🚀 Conclusion
-This dashboard provides a clear roadmap for Vrinda Store to target Adult Women in Maharashtra and Karnataka through specialized marketing campaigns and seasonal offers to maintain the growth
+This dashboard provides a clear roadmap for Vrinda Store to target Adult Women in Maharashtra and Karnataka through specialized marketing campaigns and seasonal offers to maintain the growth.
